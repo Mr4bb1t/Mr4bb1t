@@ -36,7 +36,7 @@ for i in range(20):
 
 svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="100%">
 <defs>
-    <linearGradient id="meteorGrad" x1="100%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="meteorGrad" x1="0%" y1="100%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#ffffff" stop-opacity="1" />
         <stop offset="10%" stop-color="#00FF88" stop-opacity="0.9" />
         <stop offset="100%" stop-color="#00FF88" stop-opacity="0" />
@@ -47,7 +47,7 @@ svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {
 {''.join(meteors)}
 <g transform="translate(400, 125)">
     <text x="0" y="-15" font-family="'Courier New', Courier, monospace" font-size="34" font-weight="900" fill="#00FF88" text-anchor="middle" style="text-shadow: 0 0 10px #00FF88;">MR4BB1T</text>
-    <text x="0" y="20" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="bold" fill="#ffffff" opacity="0.8" text-anchor="middle" letter-spacing="3">R4BB1T LAB</text>
+    <text x="0" y="20" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="bold" fill="#ffffff" opacity="0.8" text-anchor="middle" letter-spacing="3">R4BB1T LABS</text>
 </g>
 </svg>
 """
