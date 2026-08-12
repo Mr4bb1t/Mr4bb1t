@@ -62,9 +62,9 @@ Self-hosted automation and AI ecosystem running on a local Linux server. Integra
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr4bb1t&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&rank_icon=github" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mr4bb1t&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&rank_icon=github" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr4bb1t&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=00FF88&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mr4bb1t&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=00FF88&text_color=C9D1D9" />
 
 </div>
 
