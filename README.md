@@ -10,8 +10,6 @@ Developer focused on **embedded systems**, **automation** and **AI-integrated ha
 Building self-hosted systems that connect software, hardware, sensors and AI.
 Experienced with ESP32/ESP8266, computer vision pipelines, network infrastructure and full-stack automation from firmware to web interface.
 
-📍 Londrina, PR — Brasil
-
 ---
 
 ## `> skills`
