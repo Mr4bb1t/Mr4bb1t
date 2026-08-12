@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 200" width="100%">
+<rect width="860" height="200" fill="#030308"/>
+
+<!-- Column 1: Languages -->
+<rect x="10"  y="10" width="195" height="180" rx="5" fill="#050510" stroke="#00FF88" stroke-width="0.7" opacity="0.5"/>
+<text x="25" y="35" font-family="'Courier New',monospace" font-size="11" font-weight="bold" fill="#00FF88" letter-spacing="1">LANGUAGES</text>
+<text x="25" y="57"  font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">Python</text>
+<text x="25" y="75"  font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">C / C++</text>
+<text x="25" y="93"  font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">JavaScript</text>
+<text x="25" y="111" font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">Bash / Shell</text>
+<text x="25" y="129" font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">HTML / CSS</text>
+
+<!-- Column 2: Hardware -->
+<rect x="220" y="10" width="195" height="180" rx="5" fill="#050510" stroke="#00FF88" stroke-width="0.7" opacity="0.5"/>
+<text x="235" y="35" font-family="'Courier New',monospace" font-size="11" font-weight="bold" fill="#00FF88" letter-spacing="1">HARDWARE</text>
+<text x="235" y="57"  font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">ESP32 / ESP8266</text>
+<text x="235" y="75"  font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">Arduino</text>
+<text x="235" y="93"  font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">Raspberry Pi</text>
+<text x="235" y="111" font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">Sensors / Actuators</text>
+<text x="235" y="129" font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">Serial / I2C / SPI</text>
+
+<!-- Column 3: AI & Vision -->
+<rect x="430" y="10" width="195" height="180" rx="5" fill="#050510" stroke="#00FF88" stroke-width="0.7" opacity="0.5"/>
+<text x="445" y="35" font-family="'Courier New',monospace" font-size="11" font-weight="bold" fill="#00FF88" letter-spacing="1">AI / VISION</text>
+<text x="445" y="57"  font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">OpenCV</text>
+<text x="445" y="75"  font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">MediaPipe</text>
+<text x="445" y="93"  font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">NumPy / Pandas</text>
+<text x="445" y="111" font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">LLM Integration</text>
+<text x="445" y="129" font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">Real-time Pipelines</text>
+
+<!-- Column 4: Infra -->
+<rect x="640" y="10" width="210" height="180" rx="5" fill="#050510" stroke="#00FF88" stroke-width="0.7" opacity="0.5"/>
+<text x="655" y="35" font-family="'Courier New',monospace" font-size="11" font-weight="bold" fill="#00FF88" letter-spacing="1">INFRASTRUCTURE</text>
+<text x="655" y="57"  font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">Linux (Debian/Ubuntu)</text>
+<text x="655" y="75"  font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">Docker</text>
+<text x="655" y="93"  font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">Git / GitHub</text>
+<text x="655" y="111" font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">Wi-Fi / TCP/IP</text>
+<text x="655" y="129" font-family="'Courier New',monospace" font-size="11" fill="#C9D1D9">MQTT / REST APIs</text>
+</svg>

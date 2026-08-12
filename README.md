@@ -1,65 +1,36 @@
 <div align="center">
 
-<!-- BANNER PRINCIPAL -->
-<img src="./banner.svg" width="100%" alt="MR4BB1T Banner"/>
+<img src="./banner.svg" width="100%" alt="MR4BB1T"/>
 
 </div>
 
 ---
 
-## `> whoami`
-
-<img src="./whoami.svg" width="100%" alt="whoami"/>
+<img src="./whoami.svg" width="100%" alt="About"/>
 
 ---
 
-## `> currently_building`
+## `> skills`
 
-<img src="./jarvis.svg" width="100%" alt="JARVIS"/>
-
----
-
-## `> what_i_build`
-
-<img src="./build_cards.svg" width="100%" alt="What I Build"/>
+<img src="./skills.svg" width="100%" alt="Skills"/>
 
 ---
 
-## `> tech_stack`
+## `> pinned_projects`
 
-### `LANGUAGES`
+<img src="./project_r4bb1t_fhc.svg" width="100%" alt="R4BB1T_FHC"/>
 
-![Python](https://img.shields.io/badge/Python-030308?style=flat-square&logo=python&logoColor=00FF88)
-![C++](https://img.shields.io/badge/C%2B%2B-030308?style=flat-square&logo=c%2B%2B&logoColor=00FF88)
-![JavaScript](https://img.shields.io/badge/JavaScript-030308?style=flat-square&logo=javascript&logoColor=00FF88)
-![HTML5](https://img.shields.io/badge/HTML5-030308?style=flat-square&logo=html5&logoColor=00FF88)
-![CSS3](https://img.shields.io/badge/CSS3-030308?style=flat-square&logo=css3&logoColor=00FF88)
-![Bash](https://img.shields.io/badge/Bash-030308?style=flat-square&logo=gnu-bash&logoColor=00FF88)
+<img src="./project_blockerspam.svg" width="100%" alt="BlockerSpam"/>
 
-### `AI / COMPUTER VISION`
+<img src="./project_remotecode.svg" width="100%" alt="REMOTECODE"/>
 
-![OpenCV](https://img.shields.io/badge/OpenCV-030308?style=flat-square&logo=opencv&logoColor=00FF88)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-030308?style=flat-square&logo=google&logoColor=00FF88)
-![NumPy](https://img.shields.io/badge/NumPy-030308?style=flat-square&logo=numpy&logoColor=00FF88)
+<img src="./project_jarvis.svg" width="100%" alt="JARVIS"/>
 
-### `HARDWARE`
+<div align="center">
 
-![ESP32](https://img.shields.io/badge/ESP32-030308?style=flat-square&logo=espressif&logoColor=00FF88)
-![Arduino](https://img.shields.io/badge/Arduino-030308?style=flat-square&logo=arduino&logoColor=00FF88)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-030308?style=flat-square&logo=raspberrypi&logoColor=00FF88)
+[![All Repositories](https://img.shields.io/badge/All%20Repositories-View%20on%20GitHub-030308?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/Mr4bb1t?tab=repositories)
 
-### `INFRASTRUCTURE`
-
-![Linux](https://img.shields.io/badge/Linux-030308?style=flat-square&logo=linux&logoColor=00FF88)
-![Git](https://img.shields.io/badge/Git-030308?style=flat-square&logo=git&logoColor=00FF88)
-![GitHub](https://img.shields.io/badge/GitHub-030308?style=flat-square&logo=github&logoColor=00FF88)
-![Docker](https://img.shields.io/badge/Docker-030308?style=flat-square&logo=docker&logoColor=00FF88)
-
----
-
-## `> lab_status`
-
-<img src="./lab_status.svg" width="100%" alt="Lab Status"/>
+</div>
 
 ---
 
@@ -67,15 +38,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr4bb1t&show_icons=true&hide_border=true&theme=dark&bg_color=030308&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr4bb1t&layout=compact&hide_border=true&theme=dark&bg_color=030308&title_color=00FF88&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr4bb1t&show_icons=true&hide_border=true&theme=dark&bg_color=030308&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&rank_icon=github" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr4bb1t&layout=compact&hide_border=true&theme=dark&bg_color=030308&title_color=00FF88&text_color=C9D1D9" />
 
 </div>
-
----
-
-## `> contribution_activity`
 
 <div align="center">
 
@@ -85,27 +52,10 @@
 
 ---
 
-## `> philosophy`
-
-```text
-"Don't just use technology.
-
-Understand it.
-Break it.
-Build it.
-Improve it."
-```
-
----
-
 <div align="center">
 
-### `MR4BB1T // DIGITAL LAB`
-
-`BUILD • BREAK • LEARN • REBUILD`
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mr4bb1t&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/github.com%2FMr4bb1t-030308?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/Mr4bb1t)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Mr4bb1t&color=00ff88&style=flat-square&label=views)
 
 </div>
