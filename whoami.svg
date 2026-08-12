@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 170" width="100%">
+<defs>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="860" height="170" fill="#030308"/>
+<!-- card bg -->
+<rect x="10" y="10" width="840" height="150" rx="6" fill="#050510" stroke="#00FF88" stroke-width="0.8" opacity="0.6"/>
+<!-- copy icon -->
+<text x="830" y="35" font-family="monospace" font-size="14" fill="#00FF88" opacity="0.4">⧉</text>
+<!-- content -->
+<text x="35" y="45" font-family="'Courier New',monospace" font-size="14" font-weight="bold" fill="#00FF88">MR4BB1T</text>
+<text x="35" y="68" font-family="'Courier New',monospace" font-size="12" fill="#C9D1D9">Developer • Maker • Automation • AI • Embedded Systems</text>
+<text x="35" y="90" font-family="'Courier New',monospace" font-size="12" fill="#C9D1D9">I like taking an idea, breaking it apart, building it,</text>
+<text x="35" y="108" font-family="'Courier New',monospace" font-size="12" fill="#C9D1D9">testing it and turning it into something that actually works.</text>
+<text x="35" y="126" font-family="'Courier New',monospace" font-size="12" fill="#C9D1D9">Software is only one part of the lab.</text>
+<text x="35" y="144" font-family="'Courier New',monospace" font-size="12" fill="#C9D1D9">Hardware, networks, sensors and AI are part of the game.</text>
+</svg>

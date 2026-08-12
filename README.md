@@ -1,19 +1,7 @@
 <div align="center">
 
-<a href="https://github.com/Mr4bb1t">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./meteor_shower.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./meteor_shower.svg">
-    <img src="./meteor_shower.svg" width="100%" alt="Meteor Shower Banner">
-  </picture>
-</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+things+that+actually+do+something.;Embedded+Systems+%7C+Automation+%7C+AI+%7C+Networks;Turning+ideas+into+working+systems.;SYSTEM+ONLINE+%3E%3E%3E" alt="Typing SVG" />
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Mr4bb1t-030308?style=for-the-badge&logo=github&logoColor=00FF88&labelColor=000000)](https://github.com/Mr4bb1t)
-[![Projects](https://img.shields.io/badge/PROJECTS-ACTIVE-030308?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=000000)](https://github.com/Mr4bb1t?tab=repositories)
+<!-- BANNER PRINCIPAL -->
+<img src="./banner.svg" width="100%" alt="MR4BB1T Banner"/>
 
 </div>
 
@@ -21,108 +9,19 @@
 
 ## `> whoami`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ MR4BB1T                                                      │
-│                                                              │
-│ Developer • Maker • Automation • AI • Embedded Systems       │
-│                                                              │
-│ I like taking an idea, breaking it apart, building it,       │
-│ testing it and turning it into something that actually works.│
-│                                                              │
-│ Software is only one part of the lab.                        │
-│ Hardware, networks, sensors and AI are part of the game.     │
-└──────────────────────────────────────────────────────────────┘
-```
+<img src="./whoami.svg" width="100%" alt="whoami"/>
 
 ---
 
 ## `> currently_building`
 
-### `JARVIS`
-
-> A local automation and intelligence ecosystem.
-
-```text
-PC SERVER
-   │
-   ├── AI / Computer Vision
-   ├── Automation
-   ├── Cameras
-   ├── Sensors
-   ├── Network
-   └── ESP32 / ESP8266
-            │
-            ├── Sensors
-            ├── Actuators
-            ├── Automation
-            └── Experimental Hardware
-```
-
-The goal is to build a self-hosted system capable of connecting software,
-hardware, cameras, sensors and automation into a single ecosystem.
+<img src="./jarvis.svg" width="100%" alt="JARVIS"/>
 
 ---
 
 ## `> what_i_build`
 
-<table>
-<tr>
-<td width="50%">
-
-### `01 — EMBEDDED`
-
-ESP32 / ESP8266
-Sensors & actuators
-Displays
-Wireless communication
-Custom controllers
-Experimental electronics
-
-</td>
-
-<td width="50%">
-
-### `02 — AUTOMATION`
-
-Self-hosted systems
-Web automation
-Bots
-IoT
-Home automation
-Process automation
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### `03 — AI`
-
-Local AI
-Computer Vision
-MediaPipe
-OpenCV
-LLM experiments
-AI-assisted systems
-
-</td>
-
-<td width="50%">
-
-### `04 — NETWORKS`
-
-Linux servers
-Networking
-Wi-Fi
-Network analysis
-VPN / infrastructure
-Self-hosted services
-
-</td>
-</tr>
-</table>
+<img src="./build_cards.svg" width="100%" alt="What I Build"/>
 
 ---
 
@@ -158,17 +57,9 @@ Self-hosted services
 
 ---
 
-## `> projects`
+## `> lab_status`
 
-<div align="center">
-
-<a href="https://github.com/Mr4bb1t?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr4bb1t&repo=R4BB1T&theme=dark&hide_border=true&bg_color=030308&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" />
-</a>
-
-</div>
-
-> Explore the repositories to see the experiments, systems and prototypes currently living in the lab.
+<img src="./lab_status.svg" width="100%" alt="Lab Status"/>
 
 ---
 
@@ -194,23 +85,6 @@ Self-hosted services
 
 ---
 
-## `> lab_status`
-
-```text
-[████████████████████████████████████████] 100%
-
-SYSTEM        : ONLINE
-LAB           : ACTIVE
-HARDWARE      : CONNECTED
-AI            : EXPERIMENTAL
-AUTOMATION    : RUNNING
-NETWORK       : MONITORED
-IDEAS         : TOO MANY
-SLEEP         : OPTIONAL
-```
-
----
-
 ## `> philosophy`
 
 ```text
@@ -232,6 +106,6 @@ Improve it."
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mr4bb1t&color=00ff88&style=flat-square&label=PROFILE+VIEWS&label_color=030308)
+![Profile Views](https://komarev.com/ghpvc/?username=Mr4bb1t&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
