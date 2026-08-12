@@ -47,7 +47,7 @@ svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {
 {''.join(meteors)}
 <g transform="translate(400, 125)">
     <text x="0" y="-15" font-family="'Courier New', Courier, monospace" font-size="34" font-weight="900" fill="#00FF88" text-anchor="middle" style="text-shadow: 0 0 10px #00FF88;">MR4BB1T</text>
-    <text x="0" y="20" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="bold" fill="#ffffff" opacity="0.8" text-anchor="middle" letter-spacing="3">DIGITAL LAB // SYSTEMS ACTIVE</text>
+    <text x="0" y="20" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="bold" fill="#ffffff" opacity="0.8" text-anchor="middle" letter-spacing="3">R4BB1T LAB</text>
 </g>
 </svg>
 """
